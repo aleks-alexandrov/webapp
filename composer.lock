@@ -497,12 +497,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/thecodingmachine/integration.wordpress.moufpress.git",
-                "reference": "f2b3b23bf7a641e000aa479e378efb9ae3e38f8b"
+                "reference": "c0a3d7944d38450227d2cf4533410e3597bd2c3c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/thecodingmachine/integration.wordpress.moufpress/zipball/f2b3b23bf7a641e000aa479e378efb9ae3e38f8b",
-                "reference": "f2b3b23bf7a641e000aa479e378efb9ae3e38f8b",
+                "url": "https://api.github.com/repos/thecodingmachine/integration.wordpress.moufpress/zipball/c0a3d7944d38450227d2cf4533410e3597bd2c3c",
+                "reference": "c0a3d7944d38450227d2cf4533410e3597bd2c3c",
                 "shasum": ""
             },
             "require": {
@@ -580,7 +580,7 @@
                 "splash",
                 "wordpress"
             ],
-            "time": "2015-11-16 17:22:06"
+            "time": "2015-11-18 16:03:48"
         },
         {
             "name": "mouf/integration.wordpress.moufpress-wordpressplugin",
