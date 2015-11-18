@@ -3,8 +3,9 @@ Quiz demo: Mouf + Wordpress
 
 This repository contains a PHP Quiz demo application, running on Wordpress.
 
-It is part of a wider demo, showcasing how to deploy on **same code** in many different environments.
+You can access the website by browsing http://demoquiz-wordpress.mouf-php.com
 
+It is part of a wider demo, showcasing how to deploy on **same code** in many different environments.
 
 Installation
 ------------
