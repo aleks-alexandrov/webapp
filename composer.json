@@ -1,0 +1,26 @@
+{
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "git@github.com:thecodingmachine/quiz-module.git"
+    },
+    {
+      "type":"composer",
+      "url":"http://wpackagist.org"
+    }
+
+  ],
+  "autoload" : {
+    "psr-0" : {
+      "MyApp" : "src/"
+    }
+  },
+  "require" : {
+    "mouf/mouf" : "~2.0",
+    "mouf/integration.wordpress.moufpress" : "~3.0",
+    "wpackagist-plugin/wp-router": "~0.5.0",
+    "thecodingmachine/quiz-module": "*"
+  },
+  "minimum-stability" : "dev",
+  "prefer-stable": true
+}
